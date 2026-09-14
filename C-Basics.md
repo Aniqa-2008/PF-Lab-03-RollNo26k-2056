@@ -31,7 +31,7 @@
 | fgets() | Reads a line of text (including spaces) from a specified stream, up to a given number of characters or until a newline/EOF is encountered. Commonly used to safely read strings with spaces from stdin. |
 | puts() | Writes a string to the standard output and automatically appends a newline character at the end. |
 
-- Provide examples of at least five escape sequences covered in the lab.
+## Provide examples of at least five escape sequences covered in the lab.
 - printf("\n new line my progran");
 - printf("\t horizontal tab my progran");
 - printf("\" quotations my progran\" ");
