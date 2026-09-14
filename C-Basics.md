@@ -38,3 +38,14 @@
 - printf("\r carriage return my progran");
 - printf("\b backspace my progran");
 
+## Float Precision
+- also known as Single Precision refers to the way in which floating-point numbers, or floats, are represented and the degree of accuracy they maintain. Floating-point representation is a method used to store real numbers within the limits of finite memory in computers, maintaining a balance between range and precision.
+#include <stdio.h>
+
+int main() {
+    float a = 0.111111111111111;
+    float b = 0.222222222222222;
+    float sum = a + b;
+    printf("Float: %.20f\n", sum);
+    return 0;
+}
