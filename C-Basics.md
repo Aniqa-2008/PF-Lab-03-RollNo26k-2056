@@ -21,3 +21,20 @@
 | %c | Used to print an unsigned character. |
 | %s | Used to print strings. |
 | %ld | Used to print the long signed integer value. |
+
+| Function | Description |
+|----------|-------------|
+| scanf() | Reads formatted input from the standard input (keyboard). It can read multiple values of different data types using format specifiers like %d, %f, %c, %s, etc. Stops reading at whitespace, so it can't read strings with spaces. |
+| printf() | Writes formatted output to the standard output (screen). It uses format specifiers to print variables of different data types in a specified format. |
+| getchar() | Reads a single character from the standard input. It waits for the user to press a key and returns that character as an int. |
+| putchar() | Writes a single character to the standard output. It takes one character (as an int) and displays it on the screen. |
+| fgets() | Reads a line of text (including spaces) from a specified stream, up to a given number of characters or until a newline/EOF is encountered. Commonly used to safely read strings with spaces from stdin. |
+| puts() | Writes a string to the standard output and automatically appends a newline character at the end. |
+
+Provide examples of at least five escape sequences covered in the lab.
+printf("\n new line my progran");
+printf("\t horizontal tab my progran");
+printf("\" quotations my progran\" ");
+printf("\r carriage return my progran");
+printf("\b backspace my progran");
+
