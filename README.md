@@ -13,7 +13,7 @@ _aniqa_
 4. Paste the code for Tasks 4–10.
 5. Sample outputs for each program.
 
--DataTypes
+- DataTypes
 -Create a Markdown table containing:
 -int
 -FAST UNI 3
