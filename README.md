@@ -14,37 +14,37 @@ _aniqa_
 5. Sample outputs for each program.
 
 - DataTypes
--Create a Markdown table containing:
--int
--FAST UNI 3
--float
--double
--char
--bool
- void
-Include their descriptions.
-+Format Specifiers
-Create a table containing at least:
- %d
- %u
- %o
- %x
- %X
- %f
- %e
- %c
- %s
- %ld
-+Input/Output Functions
-Explain:
- scanf()
- printf()
- getchar()
- putchar()
- fgets()
- puts()
--Escape Sequences
-Provide examples of at least five escape sequences covered in the lab.
+- Create a Markdown table containing:
+- int
+- FAST UNI 3
+- float
+- double
+- char
+- bool
+- void
+- Include their descriptions.
++ Format Specifiers
+- Create a table containing at least:
+- %d
+- %u
+- %o
+- %x
+- %X
+- %f
+- %e
+- %c
+- %s
+- %ld
+- Input/Output Functions
+- Explain:
+- scanf()
+- printf()
+- getchar()
+- putchar()
+- fgets()
+- puts()
+- Escape Sequences
+- Provide examples of at least five escape sequences covered in the lab.
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
