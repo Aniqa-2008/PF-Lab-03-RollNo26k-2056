@@ -1,3 +1,3 @@
-#Display Student Information Using Different Data Types
+# Display Student Information Using Different Data Types
 
 
