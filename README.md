@@ -14,14 +14,13 @@ _aniqa_
 5. Sample outputs for each program.
 
 -Data Types
-Create a Markdown table containing:
- int
-
-FAST UNI 3
- float
- double
- char
- bool
+-Create a Markdown table containing:
+-int
+-FAST UNI 3
+-float
+-double
+-char
+-bool
  void
 Include their descriptions.
 +Format Specifiers
